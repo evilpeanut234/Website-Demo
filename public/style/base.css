@@ -1,0 +1,54 @@
+:root {
+    --primary-color: #DC3545;
+    --blackblue-color: #07689F;
+    --secondblue-color: #40A8C4;
+    --thirtblue-color: #A2D5F2;
+    --primary-gray-color: #e8e8e8;
+    --bg-body-color: #f0f2f5;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    background: var(--bg-body-color);
+}
+
+a,
+a:hover {
+    text-decoration: none!important;
+}
+
+li {
+    list-style: none;
+}
+
+.bg-body {
+    background: var(--bg-body-color);
+}
+
+.textarea {
+    display: block;
+    overflow: hidden;
+    height: auto;
+    min-height: 40px;
+    line-height: 20px;
+    border: 1px solid #ccc;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+input[type=file],
+
+/* FF, IE7+, chrome (except button) */
+
+input[type=file]::-webkit-file-upload-button {
+    /* chromes and blink button */
+    cursor: pointer;
+}

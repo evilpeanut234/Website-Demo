@@ -1,0 +1,540 @@
+[33mcommit 8b24dc211f33fe294982ed90d071646452459834[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a96bff8 c4981de
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sun Jan 10 15:40:17 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit a96bff8c4f8033117c98f5b2caac2f887cc73b99[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sun Jan 10 15:40:04 2021 +0700
+
+    edit index and logo
+
+[33mcommit c4981de9175940ce2a54a1c165e4a20ba9804f74[m
+Merge: e17a0b6 7d73777
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sun Jan 10 15:24:44 2021 +0700
+
+    merge code
+
+[33mcommit e17a0b6406dadf002f4c81addf4a28d3b00012bf[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sun Jan 10 15:23:26 2021 +0700
+
+    add product admin
+
+[33mcommit 7d73777ba878dcb7550d566980154e2de0988d70[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 15:18:25 2021 +0700
+
+    dang nhap voi tai khoan admin
+
+[33mcommit f9d0bb3a11332ace1ac44da394e391205517d6d8[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 14:46:57 2021 +0700
+
+    sua link anh
+
+[33mcommit a9a3b1cc34ff4f79051a2db6299e3cdc1c2e75b3[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 14:35:17 2021 +0700
+
+    sua link anh
+
+[33mcommit ab118129ca15521d205847673faff1fe02a9c17c[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 10:16:32 2021 +0700
+
+    doi link reset
+
+[33mcommit 67e0eec8ac73af1fca411ead6050dad63915d599[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 09:48:58 2021 +0700
+
+    edit thong bao
+
+[33mcommit 322b453a6453fc6913b526903358576a602fbfc5[m
+Merge: 9f8c67e bd69cc5
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 09:41:10 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 9f8c67e1472a006378752706eb6f2f30f4a6cf72[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 09:41:00 2021 +0700
+
+    edit reset account
+
+[33mcommit bd69cc53f4b33b61707e3f3490019114be7d93aa[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sun Jan 10 09:20:12 2021 +0700
+
+    admin add product
+
+[33mcommit 81d696a618561f7c02e5d6c9a5ab7530a8a0cae2[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sun Jan 10 09:02:24 2021 +0700
+
+    test admin dashbroad
+
+[33mcommit 2a4ec2b1a22c14c4ae58e488e7eac1f2aa5ae6f7[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sun Jan 10 08:43:07 2021 +0700
+
+    linking admin dashbroad
+
+[33mcommit c9ee3c6e13169b1ee745b63cc232af33b585daa2[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sun Jan 10 04:34:51 2021 +0700
+
+    change link image and delete trash image
+
+[33mcommit d4fb7e4feb2729a28f5522daec255d1fefaa8649[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sun Jan 10 04:30:14 2021 +0700
+
+    save image to cloud
+
+[33mcommit 539152ec6566841f7cfcbd63f96a6860707e4f9c[m
+Merge: f3ff2e1 bcd8a36
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 01:15:55 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit f3ff2e1f698067ecc018640e5c8670fe668a7691[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sun Jan 10 01:15:42 2021 +0700
+
+    reset password
+
+[33mcommit bcd8a361062619a940a46da9047b13e64fa94974[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 23:09:20 2021 +0700
+
+    add footer
+
+[33mcommit 385084af37793c2f5d900328229b168d290fbb9d[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 20:49:50 2021 +0700
+
+    edit link file js
+
+[33mcommit 8eb7257bd5b8b63b2437ad1033f4396dbe5ae8a1[m
+Merge: 59b4cfe 35c655e
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 20:41:55 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 59b4cfe26868a1fb20e691cdd761d7e77e3be671[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 20:41:19 2021 +0700
+
+    test file js tren heroku
+
+[33mcommit 35c655ee91435b2f6e8a1bbadee01f8f0674226a[m
+Merge: 9ac451d bd541b2
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 17:22:30 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 9ac451d74d94a301695dab434749fec4d558680b[m
+Merge: bf247f9 f2c512e
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 17:20:57 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit bf247f9e271a8275eedffd5405c38c671154f002[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 17:20:52 2021 +0700
+
+    merge code
+
+[33mcommit bd541b23f1154527c84a565eb2e2af1d5be4bd61[m
+Merge: 46afb45 f2c512e
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 17:20:47 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 46afb45f2b49201e4987aababc2bf04299cbcae1[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 17:20:18 2021 +0700
+
+    edit alert
+
+[33mcommit f2c512e9397c13dc582947ea7ec23dff0d193d23[m
+Merge: fac119f 08d0e8a
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 17:03:29 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit fac119fa8ebe33a011c5b1a4e54e14625985ca5a[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 17:03:17 2021 +0700
+
+    edit phan trang
+
+[33mcommit a5d0289bfe28b29397b2dce7bacf56d6ca66b6ef[m
+Merge: 86d366d 08d0e8a
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 16:57:10 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 86d366d67e75b96788255c2c463f395cf83feb92[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 16:56:49 2021 +0700
+
+    sua link active
+
+[33mcommit 08d0e8a27b23f00aa2ce00651b8777fd6168858b[m
+Merge: c85e293 24d93aa
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sat Jan 9 16:54:10 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit c85e293346d1f58797bd1a5255f7efb63748da8c[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sat Jan 9 16:54:01 2021 +0700
+
+    add customer
+
+[33mcommit 24d93aafb326070fdf592afb2006ad0a0ca96fde[m
+Merge: d2e6b04 edc6e00
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 16:24:37 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit d2e6b045041e0b72108736acc99ee539a7ea081f[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 16:24:25 2021 +0700
+
+    user - sam pham da thich
+
+[33mcommit edc6e00c4dfcaf863e677be556c1f66e59b75bc1[m
+Merge: bfb0687 90dcf52
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sat Jan 9 16:07:30 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit bfb068761c95d46e7ce274d8168c874020091170[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sat Jan 9 16:07:21 2021 +0700
+
+    add animation loading
+
+[33mcommit 90dcf52582f006748fb1dca1aade1c96c68aab38[m
+Merge: 080f215 127f530
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 16:06:32 2021 +0700
+
+    push reponsive
+
+[33mcommit 080f2158a829c6ce4e074996bac278aeb795dd10[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 16:03:56 2021 +0700
+
+    push reponsive
+
+[33mcommit 127f5302bdeebf0f46cc19e42a3b8c0bf48b1ca7[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 13:51:50 2021 +0700
+
+    edit trustproxies
+
+[33mcommit 2416421921b44e808db01f8ca3dfc5666cdd09db[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 13:41:12 2021 +0700
+
+    up load htaccess
+
+[33mcommit 49cd42fd712a54c07996e519f53154831e913ef6[m
+Merge: 1efd59d c6fb237
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 13:20:42 2021 +0700
+
+    nothing
+
+[33mcommit 1efd59d31e5d4ffd4a80f029a0b3bde898c98846[m
+Merge: 6297997 72efe16
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 12:27:07 2021 +0700
+
+    add procfile + them san pham ajax trang chi tiet
+
+[33mcommit c6fb237086d313a946eefe911ea539322f86c2cb[m
+Merge: eddca94 72efe16
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 12:01:00 2021 +0700
+
+    merge code
+
+[33mcommit eddca94f791045bef9292453037be335db838688[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Sat Jan 9 11:59:15 2021 +0700
+
+    cover nav
+
+[33mcommit 62979978c74af10c8d9a934f43fa85b6dd298828[m
+Merge: 88c5f99 2ab75e4
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 11:45:20 2021 +0700
+
+    nothing
+
+[33mcommit 72efe1649b9272332c6048cbe737e9bc2fd67559[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 11:39:01 2021 +0700
+
+    edit phan trang
+
+[33mcommit 88c5f99fb3bec971fbb058e2b6254ece4a854993[m
+Author: ntrongquyet <ntrongquyet37@gmail.com>
+Date:   Sat Jan 9 11:25:55 2021 +0700
+
+    ajax them san pham vao gio hang
+
+[33mcommit 2ab75e4864e8d605f11591bbb04b4f25ffd14124[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 11:25:32 2021 +0700
+
+    xem danh sach khach hang
+
+[33mcommit 59df89d1833e6371eb9e47dac3e18306951996c2[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 10:35:20 2021 +0700
+
+    edit phan trang cho tat ca
+
+[33mcommit 33745c5a58cc4241a8a5e061904804b952800736[m
+Merge: 6e94ea6 f7f13a8
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sat Jan 9 00:55:30 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 6e94ea6ed6d51f20cf84df03580463aa29183323[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sat Jan 9 00:55:09 2021 +0700
+
+    finish import excel
+
+[33mcommit f7f13a86551656f0a5d7c097804de9a0a88d9e56[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 00:22:06 2021 +0700
+
+    edit phan trang tim kiem
+
+[33mcommit 15e9e24b4d7c01568483600df8b923d4b543cbc2[m
+Merge: dd167d1 22eedcc
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 00:08:33 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 22eedcc40016629d14d6975781270715249aaf4d[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Sat Jan 9 00:08:05 2021 +0700
+
+    style pagegin
+
+[33mcommit dd167d13d2df25a7e4e5984e098e19e56f67743f[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Sat Jan 9 00:07:36 2021 +0700
+
+    phan trang tim kiem
+
+[33mcommit 7691e875f58c7a7f4e2d69e79af51790ddcee2c7[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 23:24:36 2021 +0700
+
+    merge code
+
+[33mcommit d7d1bc615483e7db6f781a7a38aede5126143c1b[m
+Merge: 39a3bd2 7993e2d
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 23:15:06 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 39a3bd2d3b21ec6360774cdcfdd1d06a70796293[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 23:14:20 2021 +0700
+
+    fix excel
+
+[33mcommit 7993e2d9ca6f822c7d9d4890f69c99da36e2572c[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 23:12:04 2021 +0700
+
+    phan trang thong ke
+
+[33mcommit cfa19db642c2dc78fd75a852f33a54078798725d[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 22:13:13 2021 +0700
+
+    fix statistic
+
+[33mcommit 58ed219ffa5245ff1489e5d7af327677d20bd82c[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 20:23:34 2021 +0700
+
+    edit code
+
+[33mcommit 45a1e195ee91d49c0f4820ac5f9b808d87c924fe[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 20:07:17 2021 +0700
+
+    thong ke theo qui
+
+[33mcommit d12e8b69301e744aff7cb40290f143ee5fece855[m
+Merge: 25e93e6 71bd11c
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 19:22:16 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 25e93e6e0b77e289d75c54d306bba6f9b850e7be[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 19:22:05 2021 +0700
+
+    fix code
+
+[33mcommit 71bd11c29a024a79a0f7415eb882e59b7733f108[m
+Merge: 4c3ce0a 32f234b
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 18:49:42 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 4c3ce0a58d989d7f59caef349ffbd386bdcfdb2d[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 18:49:33 2021 +0700
+
+    push code ajax
+
+[33mcommit 32f234b98963b293275dfb8df18d944239ebb0f1[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 16:06:14 2021 +0700
+
+    statistic interface
+
+[33mcommit fe4a6abe64f94df1c8be5b7bafdc0d13511fd90c[m
+Merge: b8fdf1b b9744d3
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 14:31:24 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit b8fdf1b9330233b57b83f770d469cebe3dd11737[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 14:31:15 2021 +0700
+
+    interface statisic
+
+[33mcommit b9744d3c5b75339fdb879af17404adcb12c03f52[m
+Merge: f325071 98ee46d
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 14:30:14 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit f3250716ce079e244b7bca55753f2b3d6031d7f4[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 14:30:05 2021 +0700
+
+    edit nav and adđ background
+
+[33mcommit 98ee46dad5969a4eece6f1d0ef00a8fb6a36b747[m
+Merge: 6892002 f1e3725
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 13:26:15 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 6892002b934e3f585d52f702632bd859f1882557[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 13:26:06 2021 +0700
+
+    product admin
+
+[33mcommit f1e3725558c7a0024d46c99a2b9444425f451729[m
+Merge: 1c8c248 06379dc
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 12:15:03 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 1c8c248190fbce69ba0fbd0692d7d7b58a4e2d3d[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 12:14:51 2021 +0700
+
+    edit thong ke
+
+[33mcommit 06379dc29c350edfbc2d8b69c14a61f0ca3d20ce[m
+Merge: 6da20e4 b8147e6
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 10:43:39 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 6da20e482b9899b7fb498224b86cb700cdadb800[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 10:43:18 2021 +0700
+
+    edit full index and detail
+
+[33mcommit b8147e694d8e61aeea4824db9e56012d7d8f8118[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 02:18:23 2021 +0700
+
+    fix comment
+
+[33mcommit 95dc23d74bcafd4dcc8a92830bc451836edea3b1[m
+Merge: 7c3fbc4 18ee88c
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 02:08:24 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit 7c3fbc4c9a2c8b857433bfd7396ba628bee540d2[m
+Author: Phạm Phong Phú Cường <phamcuong2751@gmail.com>
+Date:   Fri Jan 8 02:08:17 2021 +0700
+
+    admin product
+
+[33mcommit 18ee88c4eff8f5b14a956db2cc2929ff79aea3c9[m
+Merge: c47646a c76281a
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 00:54:35 2021 +0700
+
+    Merge branch 'main' of https://github.com/ntrongquyet/Ecommerce-PHP into main
+
+[33mcommit c47646a8540235cf1ede73a9e0da002a344a4566[m
+Author: MaiThanhNhan93 <mainhan.mtn93@gmail.com>
+Date:   Fri Jan 8 00:54:19 2021 +0700
+
+    edit thong ke
+
+[33mcommit c76281ac45d0f92f14f3002ccc086d4aff24c4f0[m
+Merge: d4e0b74 0268a7d
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 00:23:42 2021 +0700
+
+    merge
+
+[33mcommit d4e0b74cadcd07c2309958d96ff5a54f09cf20af[m
+Author: To Ngo <tongo0209@gmail.com>
+Date:   Fri Jan 8 00:22:31 2021 +0700
+
+    edit nav
